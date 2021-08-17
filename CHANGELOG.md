@@ -1,3 +1,10 @@
+# [12.1.0](https://github.com/vimalraj-a/ngx-sortablejs/compare/v12.0.0...v12.1.0) (2021-08-17)
+
+
+### Features
+
+* Added itemData in event object ([b9bf23e](https://github.com/vimalraj-a/ngx-sortablejs/commit/b9bf23e4d92d9cbc259c7d2b426d5a04b2f4a87b))
+
 # [10.1.0](https://github.com/SortableJS/ngx-sortablejs/compare/v10.0.0...v10.1.0) (2020-12-25)
 
 
