@@ -1,7 +1,8 @@
 {
-  "name": "ngx-sortablejs",
+  "name": "ngx-sortablejs-ext",
   "keywords": [
     "ngx-sortablejs",
+    "ngx-sortablejs-ext",
     "angular-sortablejs",
     "sortablejs",
     "angular",
@@ -18,8 +19,8 @@
     "access": "public"
   },
   "peerDependencies": {
-    "@angular/common": "^11.0.0",
-    "@angular/core": "^11.0.0",
+    "@angular/common": "^12.0.0",
+    "@angular/core": "^12.0.0",
     "sortablejs": ">=1.7.0"
   },
   "main": "src/public-api.ts"
